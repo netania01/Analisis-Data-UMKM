@@ -1,0 +1,59 @@
+Transaction_ID,Customer_ID,Product_ID,Product_Name,Order_Date,Quantity,Price,Discount,Total_Amount ((harga x jumlah) - diskon),Payment_Method,Delivery_City,Delivery_Status
+1001,10034,2022,NASI GORENG,2023-01-01 00:00:00,1,48402,0,,Credit Card,Bandung,Pending
+1002,10032,2048,Nasi Goreng,2023-01-02 00:00:00,7,35841,5000,,E-Wallet,Surabaya,Delivered
+1003,10029,2004,Ayam Bakar,2023-01-03 00:00:00,5,29269,5000,,E-Wallet,Yogyakarta,Canceled
+1003,10029,2004,Ayam Bakar,2023-01-03 00:00:00,5,29269,5000,,E-Wallet,Yogyakarta,Canceled
+1004,10042,2036,mie goreng,2023-01-04 00:00:00,9,12105,0,,Bank Transfer,Medan,Canceled
+1005,10025,2013,Ikan Bakar,2023-01-05 00:00:00,1,36316,10000,,Bank Transfer,Surabaya,Canceled
+1006,10007,2012,Ikan Bakar,2023-01-06 00:00:00,2,16984,10000,,Credit Card,Medan,Canceled
+1007,10022,2012,IKAN BAKAR,2023-01-07 00:00:00,2,39218,0,,Credit Card,Medan,Pending
+1008,10041,2018,Mie Goreng,2023-01-08 00:00:00,4,24905,5000,,Credit Card,Yogyakarta,Delivered
+1009,10037,2042,Mie Goreng,2023-01-09 00:00:00,1,16781,10000,,Credit Card,Surabaya,Pending
+1010,10006,2021,Sate Ayam,2023-01-10 00:00:00,5,24711,5000,,Bank Transfer,Yogyakarta,Delivered
+1010,10006,2021,Sate Ayam,2023-01-10 00:00:00,5,24711,5000,,Bank Transfer,Yogyakarta,Delivered
+1011,10031,2001,MIE GORENG,2023-01-11 00:00:00,2,32151,5000,,Credit Card,Surabaya,Delivered
+1012,10002,2026,Ikan Bakar,2023-01-12 00:00:00,3,18315,5000,,Bank Transfer,Medan,Delivered
+1012,10002,2026,Ikan Bakar,2023-01-12 00:00:00,3,18315,5000,,Bank Transfer,Medan,Delivered
+1013,10042,2004,ikan bakar,2023-01-13 00:00:00,4,12254,10000,,Credit Card,Jakarta,Canceled
+1014,10014,2049,Ikan Bakar,2023-01-14 00:00:00,2,45122,5000,,Bank Transfer,Bandung,Canceled
+1015,10028,2044,Ayam Bakar,2023-01-15 00:00:00,1,18550,5000,,Bank Transfer,Yogyakarta,Canceled
+1015,10028,2044,Ayam Bakar,2023-01-15 00:00:00,1,18550,5000,,Bank Transfer,Yogyakarta,Canceled
+1016,10003,2041,NASI GORENG,2023-01-16 00:00:00,1,29257,10000,,Credit Card,Yogyakarta,Pending
+1017,10037,2038,Sate Ayam,2023-01-17 00:00:00,1,21610,10000,,Credit Card,Surabaya,Pending
+1018,10037,2015,Mie Goreng,2023-01-18 00:00:00,5,31476,0,,E-Wallet,Medan,Pending
+1019,10034,2002,mie goreng,2023-01-19 00:00:00,1,26983,5000,,Credit Card,Yogyakarta,Canceled
+1020,10024,2016,Nasi Goreng,2023-01-20 00:00:00,7,33526,10000,,Credit Card,Surabaya,Canceled
+1021,10010,2022,Ayam Bakar,2023-01-21 00:00:00,5,45769,10000,,Credit Card,Surabaya,Pending
+1021,10010,2022,Ayam Bakar,2023-01-21 00:00:00,5,45769,10000,,Credit Card,Surabaya,Pending
+1022,10011,2048,mie goreng,2023-01-22 00:00:00,6,18324,5000,,Bank Transfer,Medan,Canceled
+1023,10030,2046,Mie Goreng,2023-01-23 00:00:00,9,14553,0,,E-Wallet,Jakarta,Delivered
+1024,10010,2020,Ikan Bakar,2023-01-24 00:00:00,7,41940,10000,,E-Wallet,Medan,Canceled
+1025,10030,2016,Ikan Bakar,2023-01-25 00:00:00,8,13217,0,,Credit Card,Medan,Delivered
+1026,10014,2019,Nasi Goreng,2023-01-26 00:00:00,9,43545,5000,,Credit Card,Yogyakarta,Delivered
+1027,10004,2049,SATE AYAM,2023-01-27 00:00:00,5,33292,10000,,E-Wallet,Yogyakarta,Delivered
+1028,10032,2022,Sate Ayam,2023-01-28 00:00:00,9,20784,10000,,Credit Card,Medan,Canceled
+1029,10019,2044,Ikan Bakar,2023-01-29 00:00:00,3,10175,0,,Credit Card,Surabaya,Canceled
+1030,10027,2048,Mie Goreng,2023-01-30 00:00:00,6,20954,10000,,Credit Card,Bandung,Pending
+1031,10034,2042,Sate Ayam,2023-01-31 00:00:00,3,40334,10000,,Credit Card,Bandung,Delivered
+1032,10019,2008,Nasi Goreng,2023-02-01 00:00:00,2,34745,0,,Bank Transfer,Jakarta,Delivered
+1033,10028,2023,Ikan Bakar,2023-02-02 00:00:00,5,49610,10000,,Credit Card,Bandung,Delivered
+1034,10035,2013,MIE GORENG,2023-02-03 00:00:00,8,49550,5000,,E-Wallet,Bandung,Pending
+1035,10003,2018,Ayam Bakar,2023-02-04 00:00:00,5,34819,5000,,E-Wallet,Medan,Canceled
+1035,10003,2018,Ayam Bakar,2023-02-04 00:00:00,5,34819,5000,,E-Wallet,Medan,Canceled
+1036,10010,2003,Nasi Goreng,2023-02-05 00:00:00,8,45345,0,,E-Wallet,Surabaya,Delivered
+1037,10004,2021,sate ayam,2023-02-06 00:00:00,9,31271,0,,E-Wallet,Surabaya,Delivered
+1038,10008,2041,Ayam Bakar,2023-02-07 00:00:00,3,31810,0,,Bank Transfer,Yogyakarta,Canceled
+1039,10004,2030,Nasi Goreng,2023-02-08 00:00:00,2,10078,5000,,Credit Card,Jakarta,Canceled
+1039,10004,2030,Nasi Goreng,2023-02-08 00:00:00,2,10078,5000,,Credit Card,Jakarta,Canceled
+1040,10006,2026,NASI GORENG,2023-02-09 00:00:00,7,49898,5000,,E-Wallet,Yogyakarta,Canceled
+1041,10049,2045,Nasi Goreng,2023-02-10 00:00:00,2,43659,10000,,Bank Transfer,Jakarta,Pending
+1042,10014,2027,Sate Ayam,2023-02-11 00:00:00,4,25509,5000,,Credit Card,Medan,Pending
+1043,10004,2048,sate ayam,2023-02-12 00:00:00,1,47700,10000,,Credit Card,Medan,Canceled
+1044,10023,2043,Mie Goreng,2023-02-13 00:00:00,2,19079,5000,,E-Wallet,Surabaya,Canceled
+1045,10025,2015,Sate Ayam,2023-02-14 00:00:00,8,26239,0,,Bank Transfer,Surabaya,Pending
+1045,10025,2015,Sate Ayam,2023-02-14 00:00:00,8,26239,0,,Bank Transfer,Surabaya,Pending
+1046,10038,2027,IKAN BAKAR,2023-02-15 00:00:00,3,27564,10000,,Credit Card,Medan,Pending
+1047,10019,2028,Ikan Bakar,2023-02-16 00:00:00,7,21324,0,,Bank Transfer,Bandung,Pending
+1048,10037,2024,Sate Ayam,2023-02-17 00:00:00,3,39700,5000,,E-Wallet,Bandung,Pending
+1049,10046,2022,sate ayam,2023-02-18 00:00:00,4,28612,10000,,E-Wallet,Bandung,Canceled
+1050,10004,2033,Sate Ayam,2023-02-19 00:00:00,6,20931,5000,,E-Wallet,Yogyakarta,Canceled
